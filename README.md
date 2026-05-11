@@ -1,5 +1,7 @@
+```bash
 apt update
 apt upgrade
 apt install python
 pip install pyzipper
-python 
+python zip_cracker.py
+```
